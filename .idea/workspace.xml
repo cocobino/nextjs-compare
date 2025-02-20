@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="668bc79a-32e5-4c45-8909-0b74aa7a940f" name="Changes" comment="panda css">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/TV.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bar_bottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bar_right_news.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg_naver.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/book.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/btn_naver_login.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cafe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/center_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/center_arrow_149.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/center_news.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/chosun.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/daliyan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dictionary.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/diploma.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/elec_news.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/financialnews.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fund.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/gamemeca.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/geonggi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/gueokmin_news.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/happybean.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/junior_naver.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/kinews.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/knowledge_in.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/korea_herald.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/list.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/live.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/live_Bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/map.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mark.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/more.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/movie.MP4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/movie.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/music.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/my_news.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/news.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/news_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/news_stand.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ohmynews.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pic_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/real_estate.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/right_bottom_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/right_top_bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/sbs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/second_frame_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/setting.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shopping.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/sport_donga.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/tenasia.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/third_center_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/top_banner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/top_bar12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/top_images.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/total.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/webtoon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/yeonhabnews.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ytn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/body/Body.consts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/body/Body.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/menu/Menu.consts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/menu/Menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cocobino&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cocobino/nextjs-compare.git&quot;,
+    &quot;accountId&quot;: &quot;064315e9-8f55-488f-b6e5-915195701f2c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tFo4qh9lvkkcTdyKKiRpZOwUMb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;tailwind&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/a453142/playground/nextjs-compare/public&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/a453142/playground/nextjs-compare/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/a453142/playground/nextjs-compare/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="668bc79a-32e5-4c45-8909-0b74aa7a940f" name="Changes" comment="" />
+      <created>1739956994815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739956994815</updated>
+      <workItem from="1739956995945" duration="15662000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1739957224673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739957224673</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vanilla extract">
+      <option name="closed" value="true" />
+      <created>1739969910005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739969910005</updated>
+    </task>
+    <task id="LOCAL-00003" summary="panda css">
+      <option name="closed" value="true" />
+      <created>1739974913067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739974913067</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tailwind.config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init" />
+    <MESSAGE value="vanilla extract" />
+    <MESSAGE value="panda css" />
+    <option name="LAST_COMMIT_MESSAGE" value="panda css" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="javascript">
+          <url>file://$PROJECT_DIR$/src/component/body/Body.tsx</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
